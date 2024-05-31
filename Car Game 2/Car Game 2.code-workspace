@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Car Game 2",
+			"path": "."
+		},
+		{
+			"name": "cartoon_race_track_-_oval (2)",
+			"path": "../../../../Downloads/cartoon_race_track_-_oval (2)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Car Game 2"
+	}
+}
